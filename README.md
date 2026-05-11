@@ -83,7 +83,7 @@ cd frontend
 npm run dev
 ```
 
-### Step 5: Use the Platform
+## Use the Platform
 1- Open your browser at: http://localhost:5173
 
 2- Click Connect Wallet (ensure MetaMask is on Hardhat Local network)
