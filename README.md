@@ -2,6 +2,18 @@
 
 ### The Blockchain-Based Freelance Escrow System is a decentralized platform designed to secure financial transactions between freelancers and clients using smart contract technology. It eliminates the need for a trusted third party by automating the escrow process on the Ethereum blockchain.
 
+### The Problem
+In traditional freelance platforms:
+
+-  Clients fear paying upfront without receiving quality work
+
+-  Freelancers fear completing work without getting paid
+
+-  Centralized platforms charge high fees and control the funds
+
+### The Solution
+Our escrow smart contract holds the client's funds securely until the work is completed and approved. The funds are only released when the client confirms satisfaction, ensuring trust and transparency for both parties.
+
 ## Prerequisites
 Before you begin, make sure you have:
 
